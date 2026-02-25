@@ -109,7 +109,7 @@ Not a chatbot with tools. A decision intelligence system.
 ## 🛠 Stack
 
 ```
-Language      Python  ████████████████████  JavaScript  ████████░░░░░░░░░░░░
+Language      Python  ████████████████████░
 
 Inference     PyTorch · HuggingFace · TinyLlama · Llama-2 · Mistral
 RAG           LanceDB · FAISS · SentenceTransformers · CLIP · LangChain
