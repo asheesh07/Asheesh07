@@ -20,7 +20,6 @@
 *LLM Inference · Multimodal RAG · Agentic AI*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asheeshdhamacharla)
-
 ![Visitors](https://komarev.com/ghpvc/?username=Asheesh07788&style=flat-square&color=6366f1)
 
 </div>
